@@ -8,8 +8,6 @@ navbar:
       href: about.html
     - text: "CV"
       href: files/CV.pdf
-    - text: "Job Market Paper"
-      href: files/jmp.pdf
     - text: "Publications"
       href: publications.html
 output:
